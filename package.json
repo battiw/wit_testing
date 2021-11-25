@@ -1,0 +1,23 @@
+{
+  "name": "task_1_cli_cipher",
+  "version": "1.0.0",
+  "description": "CLI_Task1 консольное приложение позволяющее производить шифрование или дешифрование текстовых файлов, а также вводимого в консоли текста в соответствии с заданными алгоритмами шифрования.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battiw/LCI_Task_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/battiw/LCI_Task_1/issues"
+  },
+  "homepage": "https://github.com/battiw/LCI_Task_1#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
